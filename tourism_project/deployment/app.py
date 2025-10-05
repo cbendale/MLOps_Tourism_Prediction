@@ -7,9 +7,9 @@ from huggingface_hub import hf_hub_download
 # ================================
 # App Title & Description
 # ================================
-st.set_page_config(page_title="Tourism Package Prediction", page_icon="🌍", layout="centered")
+st.set_page_config(page_title="Tourism Package Prediction", layout="centered")
 
-st.title("🌍 Tourism Package Prediction App")
+st.title("Tourism Package Prediction App")
 st.markdown(
     """
     Provide customer details below to predict whether they are likely to
