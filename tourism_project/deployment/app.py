@@ -16,7 +16,7 @@ st.markdown(
     **opt for the Wellness Tourism Package**.
     """
 )
- 
+
 
 # ================================
 # Load Model from Hugging Face Hub
@@ -26,7 +26,7 @@ st.markdown(
 def load_model():
     model_path = hf_hub_download(
         repo_id="cbendale10/MLOps-Tourism-Prediction-model",
-        filename="best_machine_failure_model_v1.joblib"
+        filename="best_tourism_prediction_model_v1.joblib"
     )
     return joblib.load(model_path)
 
@@ -97,7 +97,7 @@ if submitted:
 
     CLASSIFICATION_THRESHOLD = 0.45
 
-     
+
     try:
         df = pd.DataFrame([payload])
         proba = float(model.predict_proba(df)[0][1])
@@ -110,4 +110,4 @@ if submitted:
         st.stop()
 
 st.markdown("---")
- 
+
