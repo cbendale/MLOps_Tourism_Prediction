@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/f7902ddeb962455aa6ab36878eb354d2/artifacts
+end_time: 1759679276947
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: f7902ddeb962455aa6ab36878eb354d2
+run_name: caring-grouse-123
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679276928
+status: 3
+tags: []
+user_id: root

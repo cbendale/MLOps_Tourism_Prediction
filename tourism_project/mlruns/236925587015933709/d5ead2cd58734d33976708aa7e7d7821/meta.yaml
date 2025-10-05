@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/d5ead2cd58734d33976708aa7e7d7821/artifacts
+end_time: 1759679286908
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: d5ead2cd58734d33976708aa7e7d7821
+run_name: unruly-fowl-698
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679286882
+status: 3
+tags: []
+user_id: root

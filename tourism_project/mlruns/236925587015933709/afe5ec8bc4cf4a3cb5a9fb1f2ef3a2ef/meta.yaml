@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/afe5ec8bc4cf4a3cb5a9fb1f2ef3a2ef/artifacts
+end_time: 1759679288943
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: afe5ec8bc4cf4a3cb5a9fb1f2ef3a2ef
+run_name: bemused-bear-565
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679288914
+status: 3
+tags: []
+user_id: root

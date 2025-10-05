@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/34a747426b0c412a8fc71a0001d38a92/artifacts
+end_time: 1759679276687
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: 34a747426b0c412a8fc71a0001d38a92
+run_name: brawny-rook-968
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679276668
+status: 3
+tags: []
+user_id: root

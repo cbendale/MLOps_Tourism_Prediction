@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/06131f2f59db4e93a74e8b8b3db86472/artifacts
+end_time: 1759679291037
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: 06131f2f59db4e93a74e8b8b3db86472
+run_name: victorious-zebra-679
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679291007
+status: 3
+tags: []
+user_id: root

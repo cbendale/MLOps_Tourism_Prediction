@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/091998487b92419e8d344d94e9c15fcd/artifacts
+end_time: 1759679275811
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: 091998487b92419e8d344d94e9c15fcd
+run_name: loud-mouse-516
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679275793
+status: 3
+tags: []
+user_id: root

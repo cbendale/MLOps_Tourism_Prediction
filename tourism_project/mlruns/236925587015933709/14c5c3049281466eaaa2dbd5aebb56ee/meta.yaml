@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/14c5c3049281466eaaa2dbd5aebb56ee/artifacts
+end_time: 1759679280360
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: 14c5c3049281466eaaa2dbd5aebb56ee
+run_name: dazzling-lark-238
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679280324
+status: 3
+tags: []
+user_id: root

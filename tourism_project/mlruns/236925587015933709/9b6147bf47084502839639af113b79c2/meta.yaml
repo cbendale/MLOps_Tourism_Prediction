@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/9b6147bf47084502839639af113b79c2/artifacts
+end_time: 1759679273792
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: 9b6147bf47084502839639af113b79c2
+run_name: languid-shad-818
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679273777
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/686e61b79efd42668746f774d1100786/artifacts
+end_time: 1759679273994
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: 686e61b79efd42668746f774d1100786
+run_name: industrious-koi-262
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679273971
+status: 3
+tags: []
+user_id: root

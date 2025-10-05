@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/beb2c3792944420caa5d0c6d34305ac0/artifacts
+end_time: 1759679280775
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: beb2c3792944420caa5d0c6d34305ac0
+run_name: dashing-worm-337
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679280730
+status: 3
+tags: []
+user_id: root

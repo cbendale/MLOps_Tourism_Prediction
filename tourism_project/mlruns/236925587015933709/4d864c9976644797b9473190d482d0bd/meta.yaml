@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/4d864c9976644797b9473190d482d0bd/artifacts
+end_time: 1759679289311
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: 4d864c9976644797b9473190d482d0bd
+run_name: zealous-duck-631
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679289282
+status: 3
+tags: []
+user_id: root

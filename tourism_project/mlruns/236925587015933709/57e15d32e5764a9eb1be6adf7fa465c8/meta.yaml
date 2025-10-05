@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/57e15d32e5764a9eb1be6adf7fa465c8/artifacts
+end_time: 1759679280084
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: 57e15d32e5764a9eb1be6adf7fa465c8
+run_name: skillful-toad-762
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679280048
+status: 3
+tags: []
+user_id: root

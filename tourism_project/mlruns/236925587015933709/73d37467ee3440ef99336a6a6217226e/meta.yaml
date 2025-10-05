@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/73d37467ee3440ef99336a6a6217226e/artifacts
+end_time: 1759679281865
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: 73d37467ee3440ef99336a6a6217226e
+run_name: burly-skunk-458
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679281843
+status: 3
+tags: []
+user_id: root

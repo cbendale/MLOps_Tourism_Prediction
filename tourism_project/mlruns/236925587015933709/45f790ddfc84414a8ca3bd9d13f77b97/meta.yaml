@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/45f790ddfc84414a8ca3bd9d13f77b97/artifacts
+end_time: 1759679281995
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: 45f790ddfc84414a8ca3bd9d13f77b97
+run_name: capable-sow-476
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679281972
+status: 3
+tags: []
+user_id: root

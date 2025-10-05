@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/632567f335f6421ab87966c727ff2555/artifacts
+end_time: 1759679278758
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: 632567f335f6421ab87966c727ff2555
+run_name: omniscient-gnu-7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679278725
+status: 3
+tags: []
+user_id: root

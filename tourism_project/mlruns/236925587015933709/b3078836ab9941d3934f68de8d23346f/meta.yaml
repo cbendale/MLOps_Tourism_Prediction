@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/b3078836ab9941d3934f68de8d23346f/artifacts
+end_time: 1759679278053
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: b3078836ab9941d3934f68de8d23346f
+run_name: capable-deer-322
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679278030
+status: 3
+tags: []
+user_id: root

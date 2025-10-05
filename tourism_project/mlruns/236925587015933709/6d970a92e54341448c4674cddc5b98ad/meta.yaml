@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/6d970a92e54341448c4674cddc5b98ad/artifacts
+end_time: 1759679274608
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: 6d970a92e54341448c4674cddc5b98ad
+run_name: legendary-lynx-591
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679274590
+status: 3
+tags: []
+user_id: root

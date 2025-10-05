@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/93eb24962acb4e7e9453fe37f7895cc9/artifacts
+end_time: 1759679293630
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: 93eb24962acb4e7e9453fe37f7895cc9
+run_name: awesome-cod-174
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679293580
+status: 3
+tags: []
+user_id: root

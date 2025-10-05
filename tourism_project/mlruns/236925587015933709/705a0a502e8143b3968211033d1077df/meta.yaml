@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/705a0a502e8143b3968211033d1077df/artifacts
+end_time: 1759679290149
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: 705a0a502e8143b3968211033d1077df
+run_name: vaunted-stag-105
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679290105
+status: 3
+tags: []
+user_id: root

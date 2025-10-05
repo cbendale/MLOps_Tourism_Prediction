@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/1f695c2ae06d4f7fb8209630c7dc0488/artifacts
+end_time: 1759679286064
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: 1f695c2ae06d4f7fb8209630c7dc0488
+run_name: youthful-sponge-300
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679286037
+status: 3
+tags: []
+user_id: root

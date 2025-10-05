@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/aa6b2cec8e2f45e0824fae57db16db20/artifacts
+end_time: 1759679292152
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: aa6b2cec8e2f45e0824fae57db16db20
+run_name: gregarious-loon-570
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679292099
+status: 3
+tags: []
+user_id: root

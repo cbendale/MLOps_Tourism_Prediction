@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/b765743c02e24601b2aea704e79c5f17/artifacts
+end_time: 1759679273430
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: b765743c02e24601b2aea704e79c5f17
+run_name: funny-dog-718
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679273414
+status: 3
+tags: []
+user_id: root

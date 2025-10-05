@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/bb08a37538fb42e79bcd64c1c63ac840/artifacts
+end_time: 1759679284903
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: bb08a37538fb42e79bcd64c1c63ac840
+run_name: bustling-frog-37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679284875
+status: 3
+tags: []
+user_id: root

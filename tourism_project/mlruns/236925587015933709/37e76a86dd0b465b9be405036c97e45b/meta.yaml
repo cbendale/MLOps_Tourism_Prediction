@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/37e76a86dd0b465b9be405036c97e45b/artifacts
+end_time: 1759679283154
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: 37e76a86dd0b465b9be405036c97e45b
+run_name: nervous-flea-596
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679283131
+status: 3
+tags: []
+user_id: root

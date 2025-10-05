@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/c3618744b9c1456aa5fb6f397dcabc89/artifacts
+end_time: 1759679275831
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: c3618744b9c1456aa5fb6f397dcabc89
+run_name: tasteful-owl-694
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679275813
+status: 3
+tags: []
+user_id: root

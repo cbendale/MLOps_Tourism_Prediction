@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/2929efacdfcf44008eee5375419e6720/artifacts
+end_time: 1759679287527
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: 2929efacdfcf44008eee5375419e6720
+run_name: entertaining-dog-119
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679287497
+status: 3
+tags: []
+user_id: root

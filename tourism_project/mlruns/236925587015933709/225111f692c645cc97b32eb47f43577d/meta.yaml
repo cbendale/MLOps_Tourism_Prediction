@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/225111f692c645cc97b32eb47f43577d/artifacts
+end_time: 1759679287690
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: 225111f692c645cc97b32eb47f43577d
+run_name: redolent-rat-952
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679287661
+status: 3
+tags: []
+user_id: root

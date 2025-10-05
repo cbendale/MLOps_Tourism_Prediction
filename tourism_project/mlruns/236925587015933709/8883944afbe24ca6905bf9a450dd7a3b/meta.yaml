@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/8883944afbe24ca6905bf9a450dd7a3b/artifacts
+end_time: 1759679290799
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: 8883944afbe24ca6905bf9a450dd7a3b
+run_name: amazing-turtle-441
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679290767
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/3ade7d927a9f4c08b6ecde4ebd4d78bf/artifacts
+end_time: 1759679273810
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: 3ade7d927a9f4c08b6ecde4ebd4d78bf
+run_name: gregarious-fish-246
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679273794
+status: 3
+tags: []
+user_id: root

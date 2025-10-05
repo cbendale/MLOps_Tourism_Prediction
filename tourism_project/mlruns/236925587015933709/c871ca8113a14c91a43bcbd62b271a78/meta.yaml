@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/c871ca8113a14c91a43bcbd62b271a78/artifacts
+end_time: 1759679276169
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: c871ca8113a14c91a43bcbd62b271a78
+run_name: rare-crab-545
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679276151
+status: 3
+tags: []
+user_id: root

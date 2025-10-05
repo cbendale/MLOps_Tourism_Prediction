@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/8eccaa3738014b3c9df87ea3ea0dac63/artifacts
+end_time: 1759679286158
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: 8eccaa3738014b3c9df87ea3ea0dac63
+run_name: merciful-donkey-64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679286131
+status: 3
+tags: []
+user_id: root

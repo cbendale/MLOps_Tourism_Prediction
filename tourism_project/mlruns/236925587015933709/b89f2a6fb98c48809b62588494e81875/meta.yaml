@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/b89f2a6fb98c48809b62588494e81875/artifacts
+end_time: 1759679282311
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: b89f2a6fb98c48809b62588494e81875
+run_name: kindly-moth-389
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679282288
+status: 3
+tags: []
+user_id: root

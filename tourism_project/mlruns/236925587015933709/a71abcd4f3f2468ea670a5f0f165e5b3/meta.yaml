@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/a71abcd4f3f2468ea670a5f0f165e5b3/artifacts
+end_time: 1759679291758
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: a71abcd4f3f2468ea670a5f0f165e5b3
+run_name: welcoming-goat-607
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679291706
+status: 3
+tags: []
+user_id: root

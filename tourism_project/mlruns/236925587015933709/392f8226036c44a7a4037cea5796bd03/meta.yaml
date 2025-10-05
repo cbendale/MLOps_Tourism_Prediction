@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/392f8226036c44a7a4037cea5796bd03/artifacts
+end_time: 1759679284269
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: 392f8226036c44a7a4037cea5796bd03
+run_name: inquisitive-toad-542
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679284243
+status: 3
+tags: []
+user_id: root

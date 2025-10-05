@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/dcd2915e4b594733a401bb3ec8ce3d45/artifacts
+end_time: 1759679274943
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: dcd2915e4b594733a401bb3ec8ce3d45
+run_name: nebulous-kite-656
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679274926
+status: 3
+tags: []
+user_id: root

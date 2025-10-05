@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/03e14bd72913442db1ecd304180d6260/artifacts
+end_time: 1759679291004
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: 03e14bd72913442db1ecd304180d6260
+run_name: incongruous-gnu-209
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679290974
+status: 3
+tags: []
+user_id: root

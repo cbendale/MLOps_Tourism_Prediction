@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/e80b8cc78c6045a48a12382448c4a223/artifacts
+end_time: 1759679274684
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: e80b8cc78c6045a48a12382448c4a223
+run_name: mercurial-cub-606
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679274667
+status: 3
+tags: []
+user_id: root

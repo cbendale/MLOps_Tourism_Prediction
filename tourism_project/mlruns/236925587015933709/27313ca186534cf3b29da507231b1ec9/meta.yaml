@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/27313ca186534cf3b29da507231b1ec9/artifacts
+end_time: 1759679283102
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: 27313ca186534cf3b29da507231b1ec9
+run_name: melodic-asp-501
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679283079
+status: 3
+tags: []
+user_id: root

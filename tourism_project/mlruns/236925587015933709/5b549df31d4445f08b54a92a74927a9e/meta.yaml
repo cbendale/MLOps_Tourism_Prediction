@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/5b549df31d4445f08b54a92a74927a9e/artifacts
+end_time: 1759679282609
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: 5b549df31d4445f08b54a92a74927a9e
+run_name: stylish-flea-387
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679282585
+status: 3
+tags: []
+user_id: root

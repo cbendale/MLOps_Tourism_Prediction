@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/df1a6f08aa814729aad04ec236836f3f/artifacts
+end_time: 1759679278942
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: df1a6f08aa814729aad04ec236836f3f
+run_name: agreeable-carp-617
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679278908
+status: 3
+tags: []
+user_id: root

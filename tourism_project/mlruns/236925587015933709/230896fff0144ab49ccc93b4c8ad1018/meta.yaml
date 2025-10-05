@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/230896fff0144ab49ccc93b4c8ad1018/artifacts
+end_time: 1759679285675
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: 230896fff0144ab49ccc93b4c8ad1018
+run_name: illustrious-perch-0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679285648
+status: 3
+tags: []
+user_id: root

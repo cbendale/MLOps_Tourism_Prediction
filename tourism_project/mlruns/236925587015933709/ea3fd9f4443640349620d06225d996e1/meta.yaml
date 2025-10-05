@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/ea3fd9f4443640349620d06225d996e1/artifacts
+end_time: 1759679278260
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: ea3fd9f4443640349620d06225d996e1
+run_name: luxuriant-zebra-272
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679278220
+status: 3
+tags: []
+user_id: root

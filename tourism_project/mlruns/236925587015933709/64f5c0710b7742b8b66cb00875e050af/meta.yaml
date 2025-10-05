@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/64f5c0710b7742b8b66cb00875e050af/artifacts
+end_time: 1759679290561
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: 64f5c0710b7742b8b66cb00875e050af
+run_name: honorable-deer-276
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679290530
+status: 3
+tags: []
+user_id: root

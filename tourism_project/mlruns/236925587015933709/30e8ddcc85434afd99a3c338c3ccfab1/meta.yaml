@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/30e8ddcc85434afd99a3c338c3ccfab1/artifacts
+end_time: 1759679290027
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: 30e8ddcc85434afd99a3c338c3ccfab1
+run_name: invincible-sow-394
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679289994
+status: 3
+tags: []
+user_id: root

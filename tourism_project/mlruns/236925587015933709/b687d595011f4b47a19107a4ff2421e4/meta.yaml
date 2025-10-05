@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/b687d595011f4b47a19107a4ff2421e4/artifacts
+end_time: 1759679289279
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: b687d595011f4b47a19107a4ff2421e4
+run_name: aged-wasp-520
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679289249
+status: 3
+tags: []
+user_id: root

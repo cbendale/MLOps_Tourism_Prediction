@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/b7077dc12ac14f3caf6e6f4440ff722d/artifacts
+end_time: 1759679277849
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: b7077dc12ac14f3caf6e6f4440ff722d
+run_name: nervous-cat-54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679277826
+status: 3
+tags: []
+user_id: root

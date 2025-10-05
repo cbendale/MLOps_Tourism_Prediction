@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/67e78f1292a44b35acf119a70321544e/artifacts
+end_time: 1759679288081
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: 67e78f1292a44b35acf119a70321544e
+run_name: overjoyed-toad-199
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679288050
+status: 3
+tags: []
+user_id: root

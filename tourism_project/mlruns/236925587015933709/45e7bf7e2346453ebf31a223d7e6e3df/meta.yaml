@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/45e7bf7e2346453ebf31a223d7e6e3df/artifacts
+end_time: 1759679272654
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: 45e7bf7e2346453ebf31a223d7e6e3df
+run_name: burly-mink-381
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679272640
+status: 3
+tags: []
+user_id: root

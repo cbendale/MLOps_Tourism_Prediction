@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/7e6a3dfdff0447889b498cc053a3114b/artifacts
+end_time: 1759679284296
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: 7e6a3dfdff0447889b498cc053a3114b
+run_name: exultant-fly-447
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679284271
+status: 3
+tags: []
+user_id: root

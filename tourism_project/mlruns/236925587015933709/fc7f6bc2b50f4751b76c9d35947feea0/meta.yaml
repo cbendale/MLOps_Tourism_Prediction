@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/fc7f6bc2b50f4751b76c9d35947feea0/artifacts
+end_time: 1759679282944
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: fc7f6bc2b50f4751b76c9d35947feea0
+run_name: thundering-roo-466
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679282920
+status: 3
+tags: []
+user_id: root

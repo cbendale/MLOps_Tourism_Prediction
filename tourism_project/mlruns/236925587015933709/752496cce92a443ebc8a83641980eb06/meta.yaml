@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/752496cce92a443ebc8a83641980eb06/artifacts
+end_time: 1759679289545
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: 752496cce92a443ebc8a83641980eb06
+run_name: sassy-trout-867
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679289516
+status: 3
+tags: []
+user_id: root

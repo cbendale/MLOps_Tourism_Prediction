@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/cc5679d0925c413f90e42f0785a234b8/artifacts
+end_time: 1759679279464
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: cc5679d0925c413f90e42f0785a234b8
+run_name: nimble-jay-259
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679279431
+status: 3
+tags: []
+user_id: root

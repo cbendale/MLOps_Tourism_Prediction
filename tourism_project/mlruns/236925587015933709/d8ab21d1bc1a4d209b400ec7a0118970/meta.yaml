@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/d8ab21d1bc1a4d209b400ec7a0118970/artifacts
+end_time: 1759679280405
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: d8ab21d1bc1a4d209b400ec7a0118970
+run_name: crawling-squid-75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679280365
+status: 3
+tags: []
+user_id: root

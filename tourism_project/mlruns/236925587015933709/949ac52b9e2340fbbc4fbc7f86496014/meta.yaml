@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/949ac52b9e2340fbbc4fbc7f86496014/artifacts
+end_time: 1759679274964
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: 949ac52b9e2340fbbc4fbc7f86496014
+run_name: gregarious-ox-352
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679274945
+status: 3
+tags: []
+user_id: root

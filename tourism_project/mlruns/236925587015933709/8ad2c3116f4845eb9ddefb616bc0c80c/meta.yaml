@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/8ad2c3116f4845eb9ddefb616bc0c80c/artifacts
+end_time: 1759679285932
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: 8ad2c3116f4845eb9ddefb616bc0c80c
+run_name: sedate-perch-755
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679285905
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/3aefd918f9864f9d9c760ec93e2ffaac/artifacts
+end_time: 1759679281471
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: 3aefd918f9864f9d9c760ec93e2ffaac
+run_name: clean-sow-968
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679281449
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/1a4057179149485881ee6f74a9d54b84/artifacts
+end_time: 1759679278122
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: 1a4057179149485881ee6f74a9d54b84
+run_name: dashing-roo-246
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679278102
+status: 3
+tags: []
+user_id: root

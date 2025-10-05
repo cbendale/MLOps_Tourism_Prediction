@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/a15214bae8bb42a09903c34f78035e0a/artifacts
+end_time: 1759679283426
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: a15214bae8bb42a09903c34f78035e0a
+run_name: bold-carp-425
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679283403
+status: 3
+tags: []
+user_id: root

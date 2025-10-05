@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/bdc9228a89f84778b296699d16f39482/artifacts
+end_time: 1759679287276
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: bdc9228a89f84778b296699d16f39482
+run_name: respected-bee-775
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679287250
+status: 3
+tags: []
+user_id: root

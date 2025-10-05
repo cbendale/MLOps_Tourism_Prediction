@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/84e3608768d54844a280ccfbf5ff36e4/artifacts
+end_time: 1759679276645
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: 84e3608768d54844a280ccfbf5ff36e4
+run_name: nimble-perch-999
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679276626
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/6efafd1f7abc4a70a29a2ee417ffb723/artifacts
+end_time: 1759679282970
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: 6efafd1f7abc4a70a29a2ee417ffb723
+run_name: glamorous-cat-592
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679282946
+status: 3
+tags: []
+user_id: root

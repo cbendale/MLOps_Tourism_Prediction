@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/b87b185177be4d419f369c2dc8d75ad0/artifacts
+end_time: 1759679280320
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: b87b185177be4d419f369c2dc8d75ad0
+run_name: bald-shoat-498
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679280287
+status: 3
+tags: []
+user_id: root

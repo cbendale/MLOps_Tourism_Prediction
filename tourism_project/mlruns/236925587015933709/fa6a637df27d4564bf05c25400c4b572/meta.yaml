@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/fa6a637df27d4564bf05c25400c4b572/artifacts
+end_time: 1759679274068
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: fa6a637df27d4564bf05c25400c4b572
+run_name: caring-cod-634
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679274052
+status: 3
+tags: []
+user_id: root

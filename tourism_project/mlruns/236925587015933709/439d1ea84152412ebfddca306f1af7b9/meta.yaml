@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/439d1ea84152412ebfddca306f1af7b9/artifacts
+end_time: 1759679277236
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: 439d1ea84152412ebfddca306f1af7b9
+run_name: calm-newt-813
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679277217
+status: 3
+tags: []
+user_id: root

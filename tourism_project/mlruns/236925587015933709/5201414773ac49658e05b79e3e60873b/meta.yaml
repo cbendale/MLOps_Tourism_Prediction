@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/5201414773ac49658e05b79e3e60873b/artifacts
+end_time: 1759679278607
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: 5201414773ac49658e05b79e3e60873b
+run_name: angry-snail-923
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679278571
+status: 3
+tags: []
+user_id: root

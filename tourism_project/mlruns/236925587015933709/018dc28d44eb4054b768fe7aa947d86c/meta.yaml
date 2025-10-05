@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/018dc28d44eb4054b768fe7aa947d86c/artifacts
+end_time: 1759679275444
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: 018dc28d44eb4054b768fe7aa947d86c
+run_name: legendary-stoat-57
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679275417
+status: 3
+tags: []
+user_id: root

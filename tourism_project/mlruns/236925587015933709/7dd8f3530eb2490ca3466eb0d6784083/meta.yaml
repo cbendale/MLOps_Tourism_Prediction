@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/7dd8f3530eb2490ca3466eb0d6784083/artifacts
+end_time: 1759679278004
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: 7dd8f3530eb2490ca3466eb0d6784083
+run_name: abundant-snail-743
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679277984
+status: 3
+tags: []
+user_id: root

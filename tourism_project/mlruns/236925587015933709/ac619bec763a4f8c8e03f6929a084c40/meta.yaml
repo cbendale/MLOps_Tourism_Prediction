@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/ac619bec763a4f8c8e03f6929a084c40/artifacts
+end_time: 1759679290320
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: ac619bec763a4f8c8e03f6929a084c40
+run_name: grandiose-fox-61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679290290
+status: 3
+tags: []
+user_id: root

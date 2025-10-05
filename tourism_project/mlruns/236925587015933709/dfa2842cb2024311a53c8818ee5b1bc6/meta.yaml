@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/dfa2842cb2024311a53c8818ee5b1bc6/artifacts
+end_time: 1759679281723
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: dfa2842cb2024311a53c8818ee5b1bc6
+run_name: secretive-stork-640
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679281701
+status: 3
+tags: []
+user_id: root

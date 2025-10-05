@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/293b50f651564836a2e8ae05cdd94e97/artifacts
+end_time: 1759679276415
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: 293b50f651564836a2e8ae05cdd94e97
+run_name: agreeable-dove-329
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679276396
+status: 3
+tags: []
+user_id: root

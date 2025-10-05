@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/4a7168f9b46d4c60a68bab1761194bb2/artifacts
+end_time: 1759679273203
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: 4a7168f9b46d4c60a68bab1761194bb2
+run_name: suave-lamb-82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679273187
+status: 3
+tags: []
+user_id: root

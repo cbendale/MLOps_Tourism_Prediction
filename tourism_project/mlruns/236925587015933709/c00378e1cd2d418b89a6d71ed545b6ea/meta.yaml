@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/c00378e1cd2d418b89a6d71ed545b6ea/artifacts
+end_time: 1759679288787
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: c00378e1cd2d418b89a6d71ed545b6ea
+run_name: debonair-smelt-18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679288758
+status: 3
+tags: []
+user_id: root

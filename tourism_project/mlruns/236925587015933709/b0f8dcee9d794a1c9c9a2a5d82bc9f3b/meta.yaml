@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/b0f8dcee9d794a1c9c9a2a5d82bc9f3b/artifacts
+end_time: 1759679276708
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: b0f8dcee9d794a1c9c9a2a5d82bc9f3b
+run_name: upbeat-turtle-516
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679276689
+status: 3
+tags: []
+user_id: root

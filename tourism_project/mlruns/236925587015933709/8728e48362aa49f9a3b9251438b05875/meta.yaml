@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/8728e48362aa49f9a3b9251438b05875/artifacts
+end_time: 1759679282635
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: 8728e48362aa49f9a3b9251438b05875
+run_name: unleashed-bear-17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679282611
+status: 3
+tags: []
+user_id: root

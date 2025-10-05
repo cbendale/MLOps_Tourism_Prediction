@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/fccad8678b304cc69e0b9a0b7992576f/artifacts
+end_time: 1759679287306
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: fccad8678b304cc69e0b9a0b7992576f
+run_name: merciful-auk-651
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679287279
+status: 3
+tags: []
+user_id: root

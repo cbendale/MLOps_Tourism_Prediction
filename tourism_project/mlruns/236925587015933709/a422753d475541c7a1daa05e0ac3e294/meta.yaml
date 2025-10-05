@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/a422753d475541c7a1daa05e0ac3e294/artifacts
+end_time: 1759679292808
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: a422753d475541c7a1daa05e0ac3e294
+run_name: industrious-mole-903
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679292757
+status: 3
+tags: []
+user_id: root

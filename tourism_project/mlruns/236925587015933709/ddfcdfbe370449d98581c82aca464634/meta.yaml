@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/ddfcdfbe370449d98581c82aca464634/artifacts
+end_time: 1759679286879
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: ddfcdfbe370449d98581c82aca464634
+run_name: grandiose-mare-689
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679286854
+status: 3
+tags: []
+user_id: root

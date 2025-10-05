@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/cdc2cae0fa6c41a4aed166dbdfebc57c/artifacts
+end_time: 1759679288695
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: cdc2cae0fa6c41a4aed166dbdfebc57c
+run_name: rambunctious-fly-923
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679288666
+status: 3
+tags: []
+user_id: root

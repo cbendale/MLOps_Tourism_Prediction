@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/639fc96f19d940e9b8626c3b2b9eb1ea/artifacts
+end_time: 1759679291069
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: 639fc96f19d940e9b8626c3b2b9eb1ea
+run_name: marvelous-snipe-123
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679291040
+status: 3
+tags: []
+user_id: root

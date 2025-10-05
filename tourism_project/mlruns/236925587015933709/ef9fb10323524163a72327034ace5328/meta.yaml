@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/ef9fb10323524163a72327034ace5328/artifacts
+end_time: 1759679293228
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: ef9fb10323524163a72327034ace5328
+run_name: fearless-perch-610
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679293118
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/a0c5f72e0ab14821981e3cfe4e60740b/artifacts
+end_time: 1759679287368
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: a0c5f72e0ab14821981e3cfe4e60740b
+run_name: aged-snail-846
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679287339
+status: 3
+tags: []
+user_id: root

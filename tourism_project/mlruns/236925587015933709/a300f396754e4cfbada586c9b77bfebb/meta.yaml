@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/a300f396754e4cfbada586c9b77bfebb/artifacts
+end_time: 1759679284416
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: a300f396754e4cfbada586c9b77bfebb
+run_name: bald-asp-581
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679284390
+status: 3
+tags: []
+user_id: root

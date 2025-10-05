@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/fd87c5be370e4577a9391f113596b25a/artifacts
+end_time: 1759679277061
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: fd87c5be370e4577a9391f113596b25a
+run_name: unique-skunk-105
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679277042
+status: 3
+tags: []
+user_id: root

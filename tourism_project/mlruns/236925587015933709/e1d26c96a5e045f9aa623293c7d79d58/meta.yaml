@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/e1d26c96a5e045f9aa623293c7d79d58/artifacts
+end_time: 1759679283259
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: e1d26c96a5e045f9aa623293c7d79d58
+run_name: mysterious-moth-166
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679283236
+status: 3
+tags: []
+user_id: root

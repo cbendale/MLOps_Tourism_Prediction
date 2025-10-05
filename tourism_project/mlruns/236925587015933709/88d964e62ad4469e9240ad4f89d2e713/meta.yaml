@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/88d964e62ad4469e9240ad4f89d2e713/artifacts
+end_time: 1759679273685
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: 88d964e62ad4469e9240ad4f89d2e713
+run_name: thundering-bass-482
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679273669
+status: 3
+tags: []
+user_id: root

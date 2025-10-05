@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/1119e22c60b245468d621b1501972db2/artifacts
+end_time: 1759679283533
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: 1119e22c60b245468d621b1501972db2
+run_name: aged-bat-451
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679283508
+status: 3
+tags: []
+user_id: root

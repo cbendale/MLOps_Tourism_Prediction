@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/5ed42c1fa4744948a76b97d84ce68e86/artifacts
+end_time: 1759679285388
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: 5ed42c1fa4744948a76b97d84ce68e86
+run_name: zealous-auk-883
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679285363
+status: 3
+tags: []
+user_id: root

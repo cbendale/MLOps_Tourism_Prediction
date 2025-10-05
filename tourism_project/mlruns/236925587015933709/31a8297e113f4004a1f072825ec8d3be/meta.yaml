@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/31a8297e113f4004a1f072825ec8d3be/artifacts
+end_time: 1759679283617
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: 31a8297e113f4004a1f072825ec8d3be
+run_name: suave-wolf-375
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679283593
+status: 3
+tags: []
+user_id: root

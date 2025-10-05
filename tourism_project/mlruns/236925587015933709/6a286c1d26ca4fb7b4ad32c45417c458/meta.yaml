@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/6a286c1d26ca4fb7b4ad32c45417c458/artifacts
+end_time: 1759679275294
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: 6a286c1d26ca4fb7b4ad32c45417c458
+run_name: nebulous-lynx-812
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679275276
+status: 3
+tags: []
+user_id: root

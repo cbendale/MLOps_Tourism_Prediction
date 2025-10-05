@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/eca0a088e9314aedb6932eba132bc83c/artifacts
+end_time: 1759679273916
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: eca0a088e9314aedb6932eba132bc83c
+run_name: loud-snake-867
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679273900
+status: 3
+tags: []
+user_id: root

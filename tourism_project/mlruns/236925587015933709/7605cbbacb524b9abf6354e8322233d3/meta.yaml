@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/7605cbbacb524b9abf6354e8322233d3/artifacts
+end_time: 1759679283050
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: 7605cbbacb524b9abf6354e8322233d3
+run_name: burly-snake-320
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679283026
+status: 3
+tags: []
+user_id: root

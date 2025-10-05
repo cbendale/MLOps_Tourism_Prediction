@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/2c6f607e7ef148ab9ad9020db7658114/artifacts
+end_time: 1759679273590
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: 2c6f607e7ef148ab9ad9020db7658114
+run_name: nervous-eel-515
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679273572
+status: 3
+tags: []
+user_id: root

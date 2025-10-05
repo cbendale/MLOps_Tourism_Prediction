@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/cafaa0dc89094650bb9ac482baa882c7/artifacts
+end_time: 1759679287494
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: cafaa0dc89094650bb9ac482baa882c7
+run_name: whimsical-swan-787
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679287464
+status: 3
+tags: []
+user_id: root

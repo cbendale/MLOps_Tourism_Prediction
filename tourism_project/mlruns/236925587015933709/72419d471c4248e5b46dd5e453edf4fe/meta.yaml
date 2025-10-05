@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/72419d471c4248e5b46dd5e453edf4fe/artifacts
+end_time: 1759679281969
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: 72419d471c4248e5b46dd5e453edf4fe
+run_name: agreeable-chimp-891
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679281945
+status: 3
+tags: []
+user_id: root

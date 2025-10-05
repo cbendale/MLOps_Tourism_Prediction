@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/bd072a7e064c49c7ab98abea5affdc2c/artifacts
+end_time: 1759679283700
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: bd072a7e064c49c7ab98abea5affdc2c
+run_name: exultant-lark-752
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679283676
+status: 3
+tags: []
+user_id: root

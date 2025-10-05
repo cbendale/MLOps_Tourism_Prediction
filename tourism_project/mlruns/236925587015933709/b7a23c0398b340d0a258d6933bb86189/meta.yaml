@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/b7a23c0398b340d0a258d6933bb86189/artifacts
+end_time: 1759679289683
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: b7a23c0398b340d0a258d6933bb86189
+run_name: righteous-lark-286
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679289652
+status: 3
+tags: []
+user_id: root

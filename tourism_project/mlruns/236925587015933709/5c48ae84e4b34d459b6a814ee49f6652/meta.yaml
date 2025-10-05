@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/5c48ae84e4b34d459b6a814ee49f6652/artifacts
+end_time: 1759679272688
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: 5c48ae84e4b34d459b6a814ee49f6652
+run_name: crawling-midge-838
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679272674
+status: 3
+tags: []
+user_id: root

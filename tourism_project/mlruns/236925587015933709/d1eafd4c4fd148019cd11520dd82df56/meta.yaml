@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/d1eafd4c4fd148019cd11520dd82df56/artifacts
+end_time: 1759679287336
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: d1eafd4c4fd148019cd11520dd82df56
+run_name: bustling-finch-969
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679287309
+status: 3
+tags: []
+user_id: root

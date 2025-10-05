@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/97089b9b7b49430ebaafe8d6cd649b41/artifacts
+end_time: 1759679292213
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: 97089b9b7b49430ebaafe8d6cd649b41
+run_name: colorful-turtle-139
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679292157
+status: 3
+tags: []
+user_id: root

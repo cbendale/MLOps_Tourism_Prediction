@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/35fa46beb2ef41df9785b66bc392412f/artifacts
+end_time: 1759679280680
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: 35fa46beb2ef41df9785b66bc392412f
+run_name: abrasive-ant-264
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679280641
+status: 3
+tags: []
+user_id: root

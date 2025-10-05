@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/1e74c33e0f4841e5b2062c922c7c18ea/artifacts
+end_time: 1759679272861
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: 1e74c33e0f4841e5b2062c922c7c18ea
+run_name: amazing-croc-937
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679272847
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/d9ed5a6735564b4798cba102d86029f9/artifacts
+end_time: 1759679279205
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: d9ed5a6735564b4798cba102d86029f9
+run_name: fortunate-midge-364
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679279170
+status: 3
+tags: []
+user_id: root

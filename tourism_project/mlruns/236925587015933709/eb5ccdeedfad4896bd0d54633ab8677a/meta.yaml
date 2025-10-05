@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/eb5ccdeedfad4896bd0d54633ab8677a/artifacts
+end_time: 1759679284976
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: eb5ccdeedfad4896bd0d54633ab8677a
+run_name: dapper-carp-83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679284947
+status: 3
+tags: []
+user_id: root

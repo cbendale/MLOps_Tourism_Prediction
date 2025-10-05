@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/ddbfb76ac20b4c0eb0bd0809b7e2c77d/artifacts
+end_time: 1759679280243
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: ddbfb76ac20b4c0eb0bd0809b7e2c77d
+run_name: sedate-cub-551
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679280210
+status: 3
+tags: []
+user_id: root

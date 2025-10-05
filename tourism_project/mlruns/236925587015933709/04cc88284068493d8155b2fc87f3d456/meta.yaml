@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/04cc88284068493d8155b2fc87f3d456/artifacts
+end_time: 1759679285270
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: 04cc88284068493d8155b2fc87f3d456
+run_name: calm-deer-857
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679285244
+status: 3
+tags: []
+user_id: root

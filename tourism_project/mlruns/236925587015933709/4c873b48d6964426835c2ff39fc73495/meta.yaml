@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/4c873b48d6964426835c2ff39fc73495/artifacts
+end_time: 1759679288044
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: 4c873b48d6964426835c2ff39fc73495
+run_name: powerful-asp-521
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679288005
+status: 3
+tags: []
+user_id: root

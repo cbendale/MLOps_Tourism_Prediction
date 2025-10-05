@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/20621e8aa3c84f0b93e1d984c6e0e6fd/artifacts
+end_time: 1759679289785
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: 20621e8aa3c84f0b93e1d984c6e0e6fd
+run_name: bouncy-wolf-256
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679289755
+status: 3
+tags: []
+user_id: root

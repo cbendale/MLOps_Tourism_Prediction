@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/9c6fb80452ff444e9a8713a8b2eca583/artifacts
+end_time: 1759679282233
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: 9c6fb80452ff444e9a8713a8b2eca583
+run_name: stylish-bat-197
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679282210
+status: 3
+tags: []
+user_id: root

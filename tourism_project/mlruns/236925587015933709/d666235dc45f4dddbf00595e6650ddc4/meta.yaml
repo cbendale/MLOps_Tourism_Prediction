@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/d666235dc45f4dddbf00595e6650ddc4/artifacts
+end_time: 1759679286669
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: d666235dc45f4dddbf00595e6650ddc4
+run_name: victorious-robin-634
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679286642
+status: 3
+tags: []
+user_id: root

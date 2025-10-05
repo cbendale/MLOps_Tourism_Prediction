@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/56135dac56f84a72af37a3a4a6a11226/artifacts
+end_time: 1759679272585
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: 56135dac56f84a72af37a3a4a6a11226
+run_name: classy-shrike-222
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679272568
+status: 3
+tags: []
+user_id: root

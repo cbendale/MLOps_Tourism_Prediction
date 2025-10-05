@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/c7ac69dd11ea40548ece8c92c1befc49/artifacts
+end_time: 1759679278979
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: c7ac69dd11ea40548ece8c92c1befc49
+run_name: delicate-trout-584
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679278945
+status: 3
+tags: []
+user_id: root

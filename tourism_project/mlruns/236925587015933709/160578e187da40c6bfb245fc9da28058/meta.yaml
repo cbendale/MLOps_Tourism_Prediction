@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/160578e187da40c6bfb245fc9da28058/artifacts
+end_time: 1759679277308
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: 160578e187da40c6bfb245fc9da28058
+run_name: sedate-lamb-294
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679277283
+status: 3
+tags: []
+user_id: root

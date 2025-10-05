@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/44dfdcd32c9a4e818478aadfd5914329/artifacts
+end_time: 1759679291982
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: 44dfdcd32c9a4e818478aadfd5914329
+run_name: angry-perch-888
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679291932
+status: 3
+tags: []
+user_id: root

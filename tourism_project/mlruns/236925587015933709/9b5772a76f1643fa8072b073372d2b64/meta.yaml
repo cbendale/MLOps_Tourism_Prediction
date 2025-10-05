@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/9b5772a76f1643fa8072b073372d2b64/artifacts
+end_time: 1759679288263
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: 9b5772a76f1643fa8072b073372d2b64
+run_name: adventurous-pug-943
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679288236
+status: 3
+tags: []
+user_id: root

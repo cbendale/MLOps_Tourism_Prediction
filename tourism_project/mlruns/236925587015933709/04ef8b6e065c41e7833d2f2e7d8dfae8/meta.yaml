@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/04ef8b6e065c41e7833d2f2e7d8dfae8/artifacts
+end_time: 1759679276085
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: 04ef8b6e065c41e7833d2f2e7d8dfae8
+run_name: charming-wren-455
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679276066
+status: 3
+tags: []
+user_id: root

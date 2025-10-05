@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/b5c5a81ffeaa4a0488258d688a2a83c2/artifacts
+end_time: 1759679277575
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: b5c5a81ffeaa4a0488258d688a2a83c2
+run_name: stately-quail-34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679277549
+status: 3
+tags: []
+user_id: root

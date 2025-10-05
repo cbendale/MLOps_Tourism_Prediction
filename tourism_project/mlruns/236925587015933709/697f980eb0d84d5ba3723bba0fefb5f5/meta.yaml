@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/697f980eb0d84d5ba3723bba0fefb5f5/artifacts
+end_time: 1759679272909
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: 697f980eb0d84d5ba3723bba0fefb5f5
+run_name: loud-zebra-518
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679272895
+status: 3
+tags: []
+user_id: root

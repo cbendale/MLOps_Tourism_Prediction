@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/d435ccb8c29044ea954bb5404a9b83c4/artifacts
+end_time: 1759679273167
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: d435ccb8c29044ea954bb5404a9b83c4
+run_name: beautiful-donkey-163
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679273152
+status: 3
+tags: []
+user_id: root

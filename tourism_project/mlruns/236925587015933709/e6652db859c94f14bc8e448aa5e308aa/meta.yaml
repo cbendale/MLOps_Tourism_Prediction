@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/e6652db859c94f14bc8e448aa5e308aa/artifacts
+end_time: 1759679284556
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: e6652db859c94f14bc8e448aa5e308aa
+run_name: likeable-shoat-60
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679284531
+status: 3
+tags: []
+user_id: root

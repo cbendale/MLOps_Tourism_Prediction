@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/f6f1a7e14dd34adaaf4b1b63b4966deb/artifacts
+end_time: 1759679287626
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: f6f1a7e14dd34adaaf4b1b63b4966deb
+run_name: dazzling-hen-761
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679287598
+status: 3
+tags: []
+user_id: root

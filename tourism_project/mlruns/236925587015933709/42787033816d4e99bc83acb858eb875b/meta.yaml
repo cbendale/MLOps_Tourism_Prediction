@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/42787033816d4e99bc83acb858eb875b/artifacts
+end_time: 1759679275234
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: 42787033816d4e99bc83acb858eb875b
+run_name: masked-wren-60
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679275217
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/9b0971de0c5a43a9b068fe0523757ceb/artifacts
+end_time: 1759679276992
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: 9b0971de0c5a43a9b068fe0523757ceb
+run_name: persistent-boar-498
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679276971
+status: 3
+tags: []
+user_id: root

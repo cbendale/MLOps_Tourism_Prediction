@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/9353945e11864a9b85822608bf32bc05/artifacts
+end_time: 1759679284944
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: 9353945e11864a9b85822608bf32bc05
+run_name: zealous-rook-719
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679284908
+status: 3
+tags: []
+user_id: root

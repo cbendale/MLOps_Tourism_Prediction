@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/b3d38690f3604ef7922bb75fad4979b2/artifacts
+end_time: 1759679292333
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: b3d38690f3604ef7922bb75fad4979b2
+run_name: learned-gnat-536
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679292280
+status: 3
+tags: []
+user_id: root

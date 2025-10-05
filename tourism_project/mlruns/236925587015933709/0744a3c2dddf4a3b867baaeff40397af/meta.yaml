@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/0744a3c2dddf4a3b867baaeff40397af/artifacts
+end_time: 1759679277374
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: 0744a3c2dddf4a3b867baaeff40397af
+run_name: silent-toad-633
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679277354
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/7a498d0d80cf49b1b009be287f69362b/artifacts
+end_time: 1759679287216
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: 7a498d0d80cf49b1b009be287f69362b
+run_name: redolent-yak-0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679287189
+status: 3
+tags: []
+user_id: root

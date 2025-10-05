@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/1f36fd4012944900b8cb99e782943499/artifacts
+end_time: 1759679273289
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: 1f36fd4012944900b8cb99e782943499
+run_name: brawny-turtle-311
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679273274
+status: 3
+tags: []
+user_id: root

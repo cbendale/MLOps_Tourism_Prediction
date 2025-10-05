@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/aba39c0b56f34695af69cfd42e713f25/artifacts
+end_time: 1759679289118
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: aba39c0b56f34695af69cfd42e713f25
+run_name: victorious-whale-443
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679289083
+status: 3
+tags: []
+user_id: root

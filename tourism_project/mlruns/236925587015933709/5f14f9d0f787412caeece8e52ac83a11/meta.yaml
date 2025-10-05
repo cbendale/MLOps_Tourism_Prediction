@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/5f14f9d0f787412caeece8e52ac83a11/artifacts
+end_time: 1759679293802
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: 5f14f9d0f787412caeece8e52ac83a11
+run_name: powerful-jay-931
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679293748
+status: 3
+tags: []
+user_id: root

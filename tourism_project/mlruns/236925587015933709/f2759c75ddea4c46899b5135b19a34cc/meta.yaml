@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/f2759c75ddea4c46899b5135b19a34cc/artifacts
+end_time: 1759679277083
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: f2759c75ddea4c46899b5135b19a34cc
+run_name: aged-sponge-440
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679277064
+status: 3
+tags: []
+user_id: root

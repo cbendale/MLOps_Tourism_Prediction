@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/f3afd81f373a42bfa4a05f6a4c9cb3e4/artifacts
+end_time: 1759679273775
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: f3afd81f373a42bfa4a05f6a4c9cb3e4
+run_name: aged-foal-485
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679273760
+status: 3
+tags: []
+user_id: root

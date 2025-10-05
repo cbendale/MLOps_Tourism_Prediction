@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/8c45c8d7466a4d2cab8b7ecc50130e08/artifacts
+end_time: 1759679280283
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: 8c45c8d7466a4d2cab8b7ecc50130e08
+run_name: nebulous-crane-91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679280247
+status: 3
+tags: []
+user_id: root

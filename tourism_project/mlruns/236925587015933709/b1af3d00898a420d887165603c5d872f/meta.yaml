@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/b1af3d00898a420d887165603c5d872f/artifacts
+end_time: 1759679290764
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: b1af3d00898a420d887165603c5d872f
+run_name: rogue-foal-588
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679290735
+status: 3
+tags: []
+user_id: root

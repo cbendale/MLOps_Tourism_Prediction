@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/0bb54fea2fc8402eb8eac9498e7e201f/artifacts
+end_time: 1759679276039
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: 0bb54fea2fc8402eb8eac9498e7e201f
+run_name: bemused-moth-382
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679276020
+status: 3
+tags: []
+user_id: root

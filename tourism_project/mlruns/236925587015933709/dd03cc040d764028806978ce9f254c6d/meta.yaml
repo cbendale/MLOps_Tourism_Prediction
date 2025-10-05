@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/dd03cc040d764028806978ce9f254c6d/artifacts
+end_time: 1759679290424
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: dd03cc040d764028806978ce9f254c6d
+run_name: intelligent-rook-777
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679290395
+status: 3
+tags: []
+user_id: root

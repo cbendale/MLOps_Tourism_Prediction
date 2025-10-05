@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/521f41bb2dd5480ebf2f7fb5696ef74c/artifacts
+end_time: 1759679280125
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: 521f41bb2dd5480ebf2f7fb5696ef74c
+run_name: classy-kite-637
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679280088
+status: 3
+tags: []
+user_id: root

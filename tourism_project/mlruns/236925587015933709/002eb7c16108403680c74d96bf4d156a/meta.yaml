@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/002eb7c16108403680c74d96bf4d156a/artifacts
+end_time: 1759679277258
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: 002eb7c16108403680c74d96bf4d156a
+run_name: amazing-bass-679
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679277238
+status: 3
+tags: []
+user_id: root

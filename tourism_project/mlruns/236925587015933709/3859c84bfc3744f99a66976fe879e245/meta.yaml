@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/3859c84bfc3744f99a66976fe879e245/artifacts
+end_time: 1759679277105
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: 3859c84bfc3744f99a66976fe879e245
+run_name: thoughtful-sheep-970
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679277085
+status: 3
+tags: []
+user_id: root

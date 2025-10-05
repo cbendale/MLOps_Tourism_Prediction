@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/99d2c4a0fee3477da89cab25a68a3a86/artifacts
+end_time: 1759679285646
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: 99d2c4a0fee3477da89cab25a68a3a86
+run_name: calm-midge-509
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679285619
+status: 3
+tags: []
+user_id: root

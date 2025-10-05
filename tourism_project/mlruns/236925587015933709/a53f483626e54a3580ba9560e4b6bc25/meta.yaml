@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/a53f483626e54a3580ba9560e4b6bc25/artifacts
+end_time: 1759679289449
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: a53f483626e54a3580ba9560e4b6bc25
+run_name: nosy-auk-544
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679289421
+status: 3
+tags: []
+user_id: root

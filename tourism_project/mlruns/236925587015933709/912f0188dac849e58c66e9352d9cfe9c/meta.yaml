@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/912f0188dac849e58c66e9352d9cfe9c/artifacts
+end_time: 1759679276579
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: 912f0188dac849e58c66e9352d9cfe9c
+run_name: abundant-slug-38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679276560
+status: 3
+tags: []
+user_id: root

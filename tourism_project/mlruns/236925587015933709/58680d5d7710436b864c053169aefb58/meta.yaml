@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/58680d5d7710436b864c053169aefb58/artifacts
+end_time: 1759679289037
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: 58680d5d7710436b864c053169aefb58
+run_name: classy-carp-279
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679289008
+status: 3
+tags: []
+user_id: root

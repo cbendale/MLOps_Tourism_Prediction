@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/e61fd20783e5405abbac8bd2c6d3da06/artifacts
+end_time: 1759679288354
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: e61fd20783e5405abbac8bd2c6d3da06
+run_name: carefree-frog-21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679288327
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/6b40a966195f44ceb07db81e809d8424/artifacts
+end_time: 1759679272958
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: 6b40a966195f44ceb07db81e809d8424
+run_name: intrigued-kite-583
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679272943
+status: 3
+tags: []
+user_id: root

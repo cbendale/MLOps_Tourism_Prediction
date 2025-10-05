@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/be57ac8d46594007b5669c2a343c91ff/artifacts
+end_time: 1759679283372
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: be57ac8d46594007b5669c2a343c91ff
+run_name: serious-seal-771
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679283344
+status: 3
+tags: []
+user_id: root

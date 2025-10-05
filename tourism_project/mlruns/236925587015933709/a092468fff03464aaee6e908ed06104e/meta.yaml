@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/a092468fff03464aaee6e908ed06104e/artifacts
+end_time: 1759679285703
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: a092468fff03464aaee6e908ed06104e
+run_name: defiant-pug-490
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679285678
+status: 3
+tags: []
+user_id: root

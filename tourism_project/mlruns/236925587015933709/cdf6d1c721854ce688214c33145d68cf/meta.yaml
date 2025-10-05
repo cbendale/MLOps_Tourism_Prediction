@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/cdf6d1c721854ce688214c33145d68cf/artifacts
+end_time: 1759679275977
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: cdf6d1c721854ce688214c33145d68cf
+run_name: tasteful-carp-147
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679275959
+status: 3
+tags: []
+user_id: root

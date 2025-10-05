@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/2b1f87de799048a8955058a65d39d2a3/artifacts
+end_time: 1759679288663
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: 2b1f87de799048a8955058a65d39d2a3
+run_name: charming-newt-896
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679288635
+status: 3
+tags: []
+user_id: root

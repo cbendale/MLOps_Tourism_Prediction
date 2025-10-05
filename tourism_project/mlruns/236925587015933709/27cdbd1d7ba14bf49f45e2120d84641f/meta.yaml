@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/27cdbd1d7ba14bf49f45e2120d84641f/artifacts
+end_time: 1759679287595
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: 27cdbd1d7ba14bf49f45e2120d84641f
+run_name: dapper-newt-116
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679287565
+status: 3
+tags: []
+user_id: root

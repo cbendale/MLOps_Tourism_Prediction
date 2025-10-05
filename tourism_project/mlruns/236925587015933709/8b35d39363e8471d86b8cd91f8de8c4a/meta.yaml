@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/8b35d39363e8471d86b8cd91f8de8c4a/artifacts
+end_time: 1759679277871
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: 8b35d39363e8471d86b8cd91f8de8c4a
+run_name: gaudy-shrike-901
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679277852
+status: 3
+tags: []
+user_id: root

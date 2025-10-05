@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/81e00476ca324bf4864b50cdf60df015/artifacts
+end_time: 1759679291364
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: 81e00476ca324bf4864b50cdf60df015
+run_name: shivering-grub-27
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679291309
+status: 3
+tags: []
+user_id: root

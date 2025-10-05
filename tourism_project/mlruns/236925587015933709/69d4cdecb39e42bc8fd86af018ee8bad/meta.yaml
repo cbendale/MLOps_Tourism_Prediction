@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/69d4cdecb39e42bc8fd86af018ee8bad/artifacts
+end_time: 1759679273629
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: 69d4cdecb39e42bc8fd86af018ee8bad
+run_name: delightful-doe-114
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679273614
+status: 3
+tags: []
+user_id: root

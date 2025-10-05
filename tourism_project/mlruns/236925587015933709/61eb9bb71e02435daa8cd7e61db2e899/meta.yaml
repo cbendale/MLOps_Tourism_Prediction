@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/61eb9bb71e02435daa8cd7e61db2e899/artifacts
+end_time: 1759679286006
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: 61eb9bb71e02435daa8cd7e61db2e899
+run_name: luxuriant-cat-193
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679285980
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/f574626be2b74918adb0516e78a853f3/artifacts
+end_time: 1759679283479
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: f574626be2b74918adb0516e78a853f3
+run_name: bouncy-toad-935
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679283455
+status: 3
+tags: []
+user_id: root

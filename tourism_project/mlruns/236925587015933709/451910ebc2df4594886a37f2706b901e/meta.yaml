@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/451910ebc2df4594886a37f2706b901e/artifacts
+end_time: 1759679286128
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: 451910ebc2df4594886a37f2706b901e
+run_name: auspicious-donkey-81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679286102
+status: 3
+tags: []
+user_id: root

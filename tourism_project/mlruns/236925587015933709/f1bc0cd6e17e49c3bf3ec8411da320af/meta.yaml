@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/f1bc0cd6e17e49c3bf3ec8411da320af/artifacts
+end_time: 1759679281212
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: f1bc0cd6e17e49c3bf3ec8411da320af
+run_name: adaptable-grub-900
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679281175
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/e29e96cb787f4ac8911a995939f69389/artifacts
+end_time: 1759679275913
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: e29e96cb787f4ac8911a995939f69389
+run_name: resilient-sponge-985
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679275895
+status: 3
+tags: []
+user_id: root

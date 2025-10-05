@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/972d30a652054218a8d9139ae503d094/artifacts
+end_time: 1759679273360
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: 972d30a652054218a8d9139ae503d094
+run_name: sincere-fish-513
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679273335
+status: 3
+tags: []
+user_id: root

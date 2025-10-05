@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/151987556b4947ad9da49cf468145260/artifacts
+end_time: 1759679277017
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: 151987556b4947ad9da49cf468145260
+run_name: rogue-seal-178
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679276996
+status: 3
+tags: []
+user_id: root

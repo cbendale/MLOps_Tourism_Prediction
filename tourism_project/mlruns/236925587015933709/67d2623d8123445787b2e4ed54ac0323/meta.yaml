@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/67d2623d8123445787b2e4ed54ac0323/artifacts
+end_time: 1759679275214
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: 67d2623d8123445787b2e4ed54ac0323
+run_name: marvelous-goose-196
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679275197
+status: 3
+tags: []
+user_id: root

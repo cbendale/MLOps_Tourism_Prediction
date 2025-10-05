@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/0be35eeb91384f59a9dabcb1b6e69a39/artifacts
+end_time: 1759679278649
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: 0be35eeb91384f59a9dabcb1b6e69a39
+run_name: powerful-sloth-738
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679278612
+status: 3
+tags: []
+user_id: root

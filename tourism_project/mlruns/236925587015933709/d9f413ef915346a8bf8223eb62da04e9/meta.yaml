@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/d9f413ef915346a8bf8223eb62da04e9/artifacts
+end_time: 1759679282890
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: d9f413ef915346a8bf8223eb62da04e9
+run_name: classy-skunk-394
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679282867
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/236925587015933709/e985ce775085418ea9097e41fa28d870/artifacts
+end_time: 1759679289884
+entry_point_name: ''
+experiment_id: '236925587015933709'
+lifecycle_stage: active
+run_id: e985ce775085418ea9097e41fa28d870
+run_name: monumental-auk-457
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759679289855
+status: 3
+tags: []
+user_id: root
