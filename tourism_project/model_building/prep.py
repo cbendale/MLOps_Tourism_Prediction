@@ -5,32 +5,31 @@ from sklearn.model_selection import train_test_split
 
 # for Hugging Face dataset access & uploads
 from huggingface_hub import HfApi, hf_hub_download
- 
-# Config (env-driven) get HF_TOKEN from env variables 
+
+# Config (env-driven) get HF_TOKEN from env variables
 HF_TOKEN = os.getenv("HF_TOKEN")
 if not HF_TOKEN:
     raise RuntimeError("HF_TOKEN not found in environment. ")
- 
+
 api = HfApi(token=HF_TOKEN)
 
 # Load dataset from HF
 
-HF_DATASET_URL = f"hf://datasets/cbendale10/MLOps-Tourism-Prediction/data/tourism.csv"
-df = pd.read_csv(HF_DATASET_URL) 
+HF_DATASET_URL = f"hf://datasets/cbendale10/MLOps-Tourism-Prediction/tourism.csv"
+df = pd.read_csv(HF_DATASET_URL)
 
 print("Original shape:", df.shape)
 
-
-# Remove unnamed/blank index columns (caused by leading comma or saved index)
+# Remove unnamed/blank index columns
 
 unnamed_cols = [c for c in df.columns if (str(c).strip() == "" or str(c).lower().startswith("unnamed"))]
 if unnamed_cols:
     df.drop(columns=unnamed_cols, inplace=True, errors="ignore")
     print("Dropped unnamed columns:", unnamed_cols)
 
- 
+
 # Minimal cleaning per schema
- 
+
 LABEL_COL = "ProdTaken"
 
 ID_COLS = ["CustomerID"]
@@ -54,7 +53,7 @@ for c in ID_COLS:
 # Basic whitespace cleanup for object columns
 for c in df.columns:
     if df[c].dtype == "object":
-        df[c] = df[c].astype(str).str.strip()  
+        df[c] = df[c].astype(str).str.strip()
 
 # Normalize the Gender typo
 if "Gender" in df.columns:
@@ -64,7 +63,7 @@ if "Gender" in df.columns:
 before = len(df)
 df.drop_duplicates(inplace=True)
 print(f"Dropped {before - len(df)} duplicate rows.")
- 
+
 
 print("\nLabel distribution (incl. NaN):")
 print(df[LABEL_COL].value_counts(dropna=False))
@@ -83,9 +82,9 @@ Xtrain, Xtest, ytrain, ytest = train_test_split(
 print("\nShapes after split:")
 print("Xtrain:", Xtrain.shape, "Xtest:", Xtest.shape, "ytrain:", ytrain.shape, "ytest:", ytest.shape)
 
- 
+
 # Save locally (CSV)
- 
+
 out_dir = "tourism_project/data"
 
 Xtrain_path = os.path.join(out_dir, "Xtrain.csv")

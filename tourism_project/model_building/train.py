@@ -4,7 +4,7 @@ from pathlib import Path
 import numpy as np
 import pandas as pd
 
-# Scikit-learn 
+# Scikit-learn
 from sklearn.model_selection import train_test_split, GridSearchCV
 from sklearn.preprocessing import StandardScaler, OneHotEncoder
 from sklearn.compose import make_column_transformer
@@ -17,12 +17,12 @@ from sklearn.metrics import (
     classification_report,
 )
 
-# ── Model  
+# ── Model
 import xgboost as xgb
 import joblib
 import mlflow
 
-#   Hugging Face Hub  
+#   Hugging Face Hub
 from huggingface_hub import HfApi, create_repo
 from huggingface_hub.utils import RepositoryNotFoundError, HfHubHTTPError
 from huggingface_hub import login  # if you need to auth via token
@@ -32,10 +32,10 @@ mlflow.set_experiment("MLOps_PROD_experiment_1")
 
 api = HfApi()
 
-Xtrain_path = "hf://datasets/cbendale10/MLOps-Tourism-Prediction/data/Xtrain.csv"
-Xtest_path = "hf://datasets/cbendale10/MLOps-Tourism-Prediction/data/Xtest.csv"
-ytrain_path = "hf://datasets/cbendale10/MLOps-Tourism-Prediction/data/ytrain.csv"
-ytest_path = "hf://datasets/cbendale10/MLOps-Tourism-Prediction/data/ytest.csv"
+Xtrain_path = "hf://datasets/cbendale10/MLOps-Tourism-Prediction/Xtrain.csv"
+Xtest_path = "hf://datasets/cbendale10/MLOps-Tourism-Prediction/Xtest.csv"
+ytrain_path = "hf://datasets/cbendale10/MLOps-Tourism-Prediction/ytrain.csv"
+ytest_path = "hf://datasets/cbendale10/MLOps-Tourism-Prediction/ytest.csv"
 
 X_train = pd.read_csv(Xtrain_path)
 X_test = pd.read_csv(Xtest_path)
@@ -43,7 +43,7 @@ y_train = pd.read_csv(ytrain_path)
 y_test = pd.read_csv(ytest_path)
 
 
-# feature lists from schema  
+# feature lists from schema
 NUMERIC_COLS = [
     "Age","CityTier","NumberOfPersonVisiting","PreferredPropertyStar","NumberOfTrips",
     "Passport","OwnCar","NumberOfChildrenVisiting","MonthlyIncome","PitchSatisfactionScore",
@@ -101,7 +101,7 @@ with mlflow.start_run():
     mlflow.log_params(gs.best_params_)
 
     # Evaluate at dev threshold
-    THRESH = 0.45    
+    THRESH = 0.45
     p_tr = best_model.predict_proba(X_train)[:,1]
     p_te = best_model.predict_proba(X_test)[:,1]
     yhat_tr = (p_tr >= THRESH).astype(int)
@@ -114,9 +114,9 @@ with mlflow.start_run():
 
     tr_acc, tr_p, tr_r, tr_f1 = prf(y_train, yhat_tr)
     te_acc, te_p, te_r, te_f1 = prf(y_test,  yhat_te)
-     
 
-        
+
+
     metrics = {
     "train_accuracy":  float(tr_acc),
     "train_precision": float(tr_p),
